@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color:lightgray;
+
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blueviolet;
+
+}
+h3{
+color: brown;
+}
+h4{
+color: black;
+}
+h5{
+color: bisque;
+}
+h6{
+color: beige;
+}
+h1,h2,h3,h4,h5,h6
+{
+    font-family: 'Pacifico', cursive;
+}
+table{
+    background-color:darkcyan ;
+}
+p{
+    background-color: aquamarine;
+}
+.list-iteams{
+    background-color:lightblue   ;
+}
+.list-iteams li:hover{
+    color: beige;
+}
